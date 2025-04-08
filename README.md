@@ -41,8 +41,8 @@ RESTful APIs, third-party services, Stripe/PayPal, and more.
 📈 Let's Connect
 Feel free to reach out for collaborations, freelance opportunities, or to say hi!
 
-🌐 Your Portfolio Website
-📧 youremail@example.com
+🌐 https://www.technohub.co
+📧 mohsin.technohub@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-mohsin-3ba163207/)
 
 ---
